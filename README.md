@@ -33,10 +33,10 @@ I have added a "Clear Day" button because as it stands right now the local stora
 
 ## Screenshots
 
-![Alt text](Assets/Screenshots/basic_schedule.png)
-![Alt text](Assets/Screenshots/basic_later_day.png)
-![Alt text](Assets/Screenshots/basic_clear_confirm.png)
-![Alt text](Assets/Screenshots/basic_after_clear.png)
+![Alt text](assets/screenshots/basic_schedule.png)
+![Alt text](assets/screenshots/basic_later_day.png)
+![Alt text](assets/screenshots/basic_clear_confirm.png)
+![Alt text](assets/screenshots/basic_after_clear.png)
 
 ## Includes
 
