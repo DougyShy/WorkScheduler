@@ -36,7 +36,6 @@ function updateSchedule() {
       hoursOfDayElement.children().eq(i).attr('class', "row time-block present");
     }
     // Fill in the tasks for the day if they exist in local storage
-    console.log("HERE");
     descriptionsElements[i].textContent = localStorage.getItem(hourOfDay);
   }
 };
@@ -61,7 +60,6 @@ clearDayElement.on("click", function(event) {
   event.preventDefault();
   if (confirm("Are you sure you want to clear the entire day?")) {
     localStorage.clear();
-    console.log("CLEARIN UP LOCAL");
     updateSchedule();
   }
 });
